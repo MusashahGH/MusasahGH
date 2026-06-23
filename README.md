@@ -1,4 +1,4 @@
-![banner](./Blue Modern Marketing Manager LinkedIn Banner.png)
+![banner](./banner.png)
 
 # Hi, I'm Musa Shah! 👋
 
