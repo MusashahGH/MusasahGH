@@ -32,6 +32,10 @@
 
 ---
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MusashahGH&layout=compact&theme=radical)
+
+
+
 ## 🌐 Connect With Me
 
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:shadowvortex604@gmail.com)
