@@ -26,19 +26,13 @@
 
 ---
 
+
 ## 📊 GitHub Stats
+![Musa's GitHub stats](https://github-readme-stats.vercel.app/api?username=MusashahGH&show_icons=true&theme=radical)
 
-## 📊 Stats & Counters
+---
 
-<p align="center">
-  🌎 <b>Global Visitors</b><br>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=MusashahGH&left_color=purple&right_color=orange" alt="Visitors"/>
-</p>
-
-<p align="center">
-  👁️ <b>Profile Views</b><br>
-  <img src="https://komarev.com/ghpvc/?username=MusashahGH&color=green&style=for-the-badge" alt="Profile Views"/>
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MusashahGH&layout=compact&theme=radical)
 
 ---
 
