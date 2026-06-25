@@ -16,12 +16,12 @@
 
 ---
 
-## 📂 Featured Repositories
+## 📂 Featured Projects
 
-- 🐍 [Learning Python](https://github.com/MusashahGB/learning-python)  
-- ⚡ [Learning DSA in C++](https://github.com/MusashahGB/learning-DSA-in-CPP)  
-- 🚀 [DSA C++ Project](https://github.com/MusashahGB/DSA-cpp-project)  
-- 🗄️ [MySQL Project](https://github.com/MusashahGB/mysql-project)
+[![Learning Python](https://img.shields.io/badge/Open-Learning_Python-blue?style=for-the-badge&logo=python)](https://github.com/MusashahGH/learning-python)  
+[![DSA in C++](https://img.shields.io/badge/Open-DSA_in_CPP-green?style=for-the-badge&logo=cplusplus)](https://github.com/MusashahGH/learning-DSA-in-CPP)  
+[![DSA C++ Project](https://img.shields.io/badge/Open-DSA_C++_Project-orange?style=for-the-badge&logo=github)](https://github.com/MusashahGH/DSA-cpp-project)  
+[![MySQL Project](https://img.shields.io/badge/Open-MySQL_Project-yellow?style=for-the-badge&logo=mysql)](https://github.com/MusashahGH/mysql-project)
 
 
 ---
@@ -37,3 +37,4 @@
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:shadowvortex604@gmail.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-link)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-Website-green?style=for-the-badge&logo=firefox)](https://yourportfolio.com)
+
