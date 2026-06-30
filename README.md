@@ -22,11 +22,11 @@
 
 ## 📂 Featured Projects
 
-[![Learning Python](https://img.shields.io/badge/Open-Learning_Python-blue?style=for-the-badge&logo=python)](https://github.com/MusashahGH/learning-python)  
-[![DSA in C++](https://img.shields.io/badge/Open-DSA_in_CPP-green?style=for-the-badge&logo=cplusplus)](https://github.com/MusashahGH/learning-DSA-in-CPP)  
-[![DSA C++ Project](https://img.shields.io/badge/Open-DSA_C++_Project-orange?style=for-the-badge&logo=github)](https://github.com/MusashahGH/DSA-cpp-project)  
-[![MySQL Project](https://img.shields.io/badge/Open-MySQL_Project-yellow?style=for-the-badge&logo=mysql)](https://github.com/MusashahGH/mysql-project)
 [![Calculator Python OOP](https://img.shields.io/badge/Open-Calculator_Python_OOP-blue?style=for-the-badge&logo=python)](https://github.com/MusashahGH/Calculator-Python-OOP)
+[![Learning Python](https://img.shields.io/badge/Open-Learning_Python-blue?style=for-the-badge&logo=python)](https://github.com/MusashahGH/learning-python)  
+[![DSA C++ Project](https://img.shields.io/badge/Open-DSA_C++_Project-orange?style=for-the-badge&logo=github)](https://github.com/MusashahGH/DSA-cpp-project) 
+[![DSA in C++](https://img.shields.io/badge/Open-DSA_in_CPP-green?style=for-the-badge&logo=cplusplus)](https://github.com/MusashahGH/learning-DSA-in-CPP)  
+[![MySQL Project](https://img.shields.io/badge/Open-MySQL_Project-yellow?style=for-the-badge&logo=mysql)](https://github.com/MusashahGH/mysql-project)
 [![HTML & CSS Website](https://img.shields.io/badge/Open-HTML_&_CSS_Website-red?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/MusashahGH/GameVault)
 
 
